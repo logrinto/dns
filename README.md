@@ -1,10 +1,14 @@
 [![Build Status](https://travis-ci.org/logrinto/dns.svg?branch=master)](https://travis-ci.org/logrinto/dns)
 
-# DNS Sync
-Synchronize all my DNS-Records with [DNSControl](https://github.com/StackExchange/dnscontrol)
+# DNS entries for logrinto.ch
+
 
 ## ⚠️ ATTENTION! This Repo is watched by Travis-CI and all pushes to master get synced!
-If you push to `develop` you just see the preview of the changes in [Travis CI](https://travis-ci.org/signalwerk/dns)
+
+
+
+## Technic
+Synchronize all DNS-Records with [DNSControl](https://github.com/StackExchange/dnscontrol)
 
 ## Test
 ```sh
