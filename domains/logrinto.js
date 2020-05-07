@@ -13,6 +13,10 @@ D(
   // github-pages
   CNAME("thesis", GITHUB_LOGRINTO_CNAME, TTL(1)),
 
+  // github-pages test
+  CNAME("dns", GITHUB_LOGRINTO_CNAME, TTL(1)),
+
+  // github-pages diplom
   CNAME("pascale", GITHUB_LOGRINTO_CNAME, TTL(1)),
   CNAME("marius", GITHUB_LOGRINTO_CNAME, TTL(1)),
   CNAME("stephanie", GITHUB_LOGRINTO_CNAME, TTL(1)),
