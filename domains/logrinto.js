@@ -27,7 +27,8 @@ D(
   CNAME("nils", GITHUB_LOGRINTO_CNAME, TTL(1)),
   CNAME("tieu", "sl345.web.hostpoint.ch.", TTL(1)),
   CNAME("natasha", GITHUB_LOGRINTO_CNAME, TTL(1)),
-  CNAME("wolfgang", GITHUB_LOGRINTO_CNAME, TTL(1)),
+  CNAME("domizil", GITHUB_LOGRINTO_CNAME, TTL(1)), // diploma wolfgang
+  CNAME("ixds", "sl345.web.hostpoint.ch.", TTL(1)), // portfolio wolfgang
   CNAME("nicole", "sl345.web.hostpoint.ch.", TTL(1)),
 
   CNAME("www", "logrinto.ch.", TTL(1)),
