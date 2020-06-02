@@ -28,7 +28,7 @@ D(
   CNAME("tieu", "sl345.web.hostpoint.ch.", TTL(1)),
   CNAME("natasha", GITHUB_LOGRINTO_CNAME, TTL(1)),
   CNAME("wolfgang", GITHUB_LOGRINTO_CNAME, TTL(1)),
-  CNAME("nicole", GITHUB_LOGRINTO_CNAME, TTL(1)),
+  CNAME("nicole", "sl345.web.hostpoint.ch.", TTL(1)),
 
   CNAME("www", "logrinto.ch.", TTL(1)),
 
