@@ -17,7 +17,7 @@ D(
   CNAME("dns", GITHUB_LOGRINTO_CNAME, TTL(1)),
 
   // github-pages diplom
-  CNAME("pascale", "sl345.web.hostpoint.ch.", TTL(1)),
+  CNAME("divo", "sl345.web.hostpoint.ch.", TTL(1)), // diplom pascale
   CNAME("marius", GITHUB_LOGRINTO_CNAME, TTL(1)),
   CNAME("stephanie", GITHUB_LOGRINTO_CNAME, TTL(1)),
   CNAME("marc", GITHUB_LOGRINTO_CNAME, TTL(1)),
