@@ -23,6 +23,7 @@ D(
   CNAME("cdn-faceit", "sl345.web.hostpoint.ch.", TTL(1)),  // diplom stephanie files
   CNAME("faceit", GITHUB_LOGRINTO_CNAME, TTL(1)), // diplom stephanie
   CNAME("marc", GITHUB_LOGRINTO_CNAME, TTL(1)),
+  CNAME("marc-new", "sl345.web.hostpoint.ch.", TTL(1)),
   CNAME("severin", GITHUB_LOGRINTO_CNAME, TTL(1)),
   CNAME("matthias", GITHUB_LOGRINTO_CNAME, TTL(1)),
   CNAME("lars", GITHUB_LOGRINTO_CNAME, TTL(1)),
