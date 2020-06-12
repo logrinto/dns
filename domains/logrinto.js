@@ -24,7 +24,7 @@ D(
   CNAME("faceit", GITHUB_LOGRINTO_CNAME, TTL(1)), // diplom stephanie
   CNAME("marc", "sl345.web.hostpoint.ch.", TTL(1)),
   CNAME("severin", GITHUB_LOGRINTO_CNAME, TTL(1)),
-  CNAME("matthias", GITHUB_LOGRINTO_CNAME, TTL(1)),
+  CNAME("matthias", "kreis3.netlify.app.", TTL(1)),
   CNAME("lars", GITHUB_LOGRINTO_CNAME, TTL(1)),
   CNAME("nils", GITHUB_LOGRINTO_CNAME, TTL(1)),
   CNAME("tieu", "sl345.web.hostpoint.ch.", TTL(1)), // diplom tieu
