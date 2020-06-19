@@ -13,6 +13,9 @@ D(
   // github-pages
   CNAME("thesis", GITHUB_LOGRINTO_CNAME, TTL(1)),
 
+  // github-pages
+  CNAME("diplom", GITHUB_LOGRINTO_CNAME, TTL(1)),
+
   // github-pages test
   CNAME("dns", GITHUB_LOGRINTO_CNAME, TTL(1)),
 
